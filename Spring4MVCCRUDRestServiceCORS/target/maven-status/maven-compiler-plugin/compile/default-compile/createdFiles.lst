@@ -1,0 +1,13 @@
+com/pc/springmvc/dao/RemainderDaoImpl.class
+com/pc/springmvc/dao/RemainderDaoImpl$RemainderMapper.class
+com/pc/springmvc/configuration/SpringWebConfig.class
+com/pc/springmvc/configuration/CORSFilter.class
+com/pc/springmvc/configuration/RemainderConfiguration.class
+com/pc/springmvc/service/RemainderServiceImpl.class
+com/pc/springmvc/controller/RemainderRestController.class
+com/pc/springmvc/dao/RemainderDao.class
+com/pc/springmvc/model/Remainder.class
+com/pc/springmvc/configuration/RemainderInitializer.class
+com/pc/springmvc/service/RemainderService.class
+com/pc/springmvc/dao/RemainderDaoImpl$1.class
+com/pc/springmvc/configuration/db/HsqlDataSource.class

@@ -1,0 +1,11 @@
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/configuration/db/HsqlDataSource.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/configuration/SpringWebConfig.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/service/RemainderService.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/configuration/RemainderInitializer.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/model/Remainder.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/controller/RemainderRestController.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/dao/RemainderDaoImpl.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/configuration/RemainderConfiguration.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/dao/RemainderDao.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/configuration/CORSFilter.java
+/home/priyanka/Webservice/Spring4MVCCRUDRestServiceCORS/src/main/java/com/pc/springmvc/service/RemainderServiceImpl.java
